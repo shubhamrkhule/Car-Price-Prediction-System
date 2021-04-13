@@ -1,1 +1,1 @@
-# Car-Price-Prediction-System
+A vehicle price prediction system by using the supervised machine learning technique, multiple linear regression, there are multiple independent variables but one and only one dependent variable whose actual and predicted values are compared to find precision ofresults. This proposes a system where price isdependent variable which is predicted, and this price is derived from factors like vehicle’s Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner.
